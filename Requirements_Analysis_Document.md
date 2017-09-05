@@ -28,7 +28,8 @@ Introduction here
 
 ### A. Purpose of the system
 ____________
-Purpose of the system here
+The system Hacker News is a online web forum news site, which share many simularities with the popular site Reddit. it allows users of the website to register themself as a account and share stories and comment on other users stories, aswell as give or take karma from stories and comments that increase or decreases their priority on the site, this allows the users to show what content that contribute to the discussion they have interest in, in the case of Hacker News it's any discussion on hacking, programming or news regarding these activities in general, while taking away focus from disruptive or unwanted discussion.
+
 ### B. Scope of the system
 ____________
 Scope of the system here
